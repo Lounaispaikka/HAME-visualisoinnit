@@ -16,7 +16,7 @@ Alla yhteisesti sovitut kaavamerkinnät
 
 Kaavamerkintäkoodi | Selitys | Kuva | RGB-arvo | SLD-määritys
 --------------- | ------------| --------| ------| --------
-Merkintäx | Plaaplaaplaa | ![Kuvaesimerkki](/images/esimerkki.png)|000|SLD koodista pätkä... |
+Merkintäx | Plaaplaaplaa | ![Kuvaesimerkki](/images/esimerkki.PNG)|000|SLD koodista pätkä... |
 Merkintäx | Plaaplaaplaa | ![Kuvaesimerkki](/images/esimerkki.png)|000|SLD koodista pätkä... |
 Merkintäx | Plaaplaaplaa | ![Kuvaesimerkki](/images/esimerkki.png)|000|SLD koodista pätkä... |
 
